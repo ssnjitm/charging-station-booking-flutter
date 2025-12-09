@@ -8,6 +8,16 @@ A **production-ready Flutter application** for discovering and booking electric 
 ![Status](https://img.shields.io/badge/status-Production%20Ready-brightgreen)
 
 ---
+##  Screenshots
+<img width="1915" height="1108" alt="image" src="https://github.com/user-attachments/assets/4e57de57-6a75-406d-b991-716beac77167" />
+<img width="432" height="1006" alt="image" src="https://github.com/user-attachments/assets/1f57d737-261b-41a8-baaa-46a8cd96420f" />
+<img width="427" height="993" alt="image" src="https://github.com/user-attachments/assets/33a82357-7e32-4329-860e-07973ded6e9c" />
+<img width="423" height="990" alt="image" src="https://github.com/user-attachments/assets/de26917e-f564-421f-9d1a-c59705790a39" />
+
+
+
+
+![1000008481](https://github.com/user-attachments/assets/ad7df42e-c79b-4330-8e8d-1643546f5e34)
 
 ## 🎯 Features
 
